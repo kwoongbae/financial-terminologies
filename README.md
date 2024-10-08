@@ -1,6 +1,6 @@
 # financial-terminologies
 
-- <img src="C:\Users\kwbae\OneDrive - postech.ac.kr\05. 개인자료\01. 깃허브 레포지토리\financial-terminologies\asset.png" alt="asset" style="zoom:50%;" /> 
+- <img src="./asset.png" alt="asset" style="zoom:50%;" /> 
 - 금융/보험을 공부한다면 꼭 알아야 하는 용어들의 집합체.
 
 ---
